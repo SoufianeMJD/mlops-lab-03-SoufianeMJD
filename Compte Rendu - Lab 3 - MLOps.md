@@ -52,12 +52,6 @@ Soufiane MAJDALANE
 
 On a versionné les données transformées et les statistiques d’entraînement avec DVC, en les liant à un commit Git précis.
 
-![image.png](image%2010.png)
-
-Remove the file from Git's index
-
-![image.png](image%2011.png)
-
 ![image.png](image%2012.png)
 
 ![image.png](image%2013.png)
